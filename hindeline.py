@@ -18,7 +18,7 @@ def fibo(max):
 		
 	print (numbers)
 
-# Ruutvõrrand
+# Ruutvorrand
 def equation(a, b, c):
 
 	x1 = b**2 - 4 * a * c
